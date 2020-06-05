@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project Bitcoin</string>
+    <string name="Fetch">Fetching Data...</string>
+    <string name="cost">1 Bitcoin equals to :</string>
+</resources>
